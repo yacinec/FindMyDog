@@ -4,8 +4,8 @@ FindMyDog is an open-source, cross-platform, Javascript app.
 
 The FindMyDog project aims to allow the dogs adoption between individuals.
 
-![Screenshot](/assets/screenshot1.png "App's Screenshot")
-![Screenshot2](/assets/screenshot2.png "App's Screenshot 2")
+<img src="/assets/screenshot1.png" alt="FindMyDog's screenshot" width="200"/>
+<img src="/assets/screenshot2.png" alt="FindMyDog's screenshot" width="200"/>
 
 ## Install
 
